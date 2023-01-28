@@ -34,4 +34,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimSalem0&layout=compact&hide=html&theme=radical" alt="IbrahimSalem0"/></p>
 
-![Ibrahim Salem github stats](https://github-readme-stats.vercel.app/api?username=IbrahimSalem0&count_private=true&count_private=true&show_icons=true&hide=stars,commits,prs,issues,contribs)
+![Ibrahim Salem github stats](https://github-readme-stats.vercel.app/api?username=IbrahimSalem0&count_private=true&count_private=true&show_icons=true&hide=stars,prs,issues,contribs)
