@@ -32,7 +32,7 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="22" height="22"/>
 </p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IbrahimSalem0&orgs=soum-sa)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IbrahimSalem0&orgs=soum-sa&theme=radical&count_private=true)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimSalem0&layout=compact&hide=html&theme=radical&count_private=true" alt="IbrahimSalem0"/></p>
 
