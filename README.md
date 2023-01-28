@@ -34,4 +34,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimSalem0&layout=compact&hide=html&theme=radical" alt="IbrahimSalem0"/></p>
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IbrahimSalem0&show_icons=true" alt="IbrahimSalem0" /></p>
